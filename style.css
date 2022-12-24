@@ -27,7 +27,7 @@ body {
 #pinkboard:after {
     content: '';
     position: absolute;
-    background: #30c8d6;
+    background: #2bf032;
     width: 100px;
     height: 160px;
     border-top-left-radius: 50px;
